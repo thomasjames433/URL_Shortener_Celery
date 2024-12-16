@@ -1,5 +1,5 @@
 # URL_Shortener_Celery
-This a project that shortens long urls and redirects short urls to their corresponding long url. Made using django, django-rest-framework and celery, Uses Sqlite3 as a database
+This a project that shortens long urls and redirects short urls to their corresponding long url. Made using django, django-rest-framework and Celery
 
 ## Features:
 - Gets hitcount of each url

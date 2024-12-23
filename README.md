@@ -29,7 +29,6 @@ This a project that shortens long urls and redirects short urls to their corresp
 #### 2. Navigate into the project directory:
    `cd URL_Shortener`
 #### 3. Install dependencies:
-   - `pip freeze > requirements.txt`
    - `python manage.py makemigrations`
    - `python manage.py migrate`  
    - `To createsuperuser: python manage.py createsuperuser`
